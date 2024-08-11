@@ -1,15 +1,12 @@
-# Unit Testing JavaScript Code
+# Ce dépôt contient tous les exemples et exercices pour le cours de test en JavaScript.
 
-This repository contains all of the examples and exercises for my JavaScript testing course.
-
-- Understand the fundamentals of unit testing and its significance in JavaScript development.
-- Master the setup and usage of Vitest for effective JavaScript testing.
-- Discover the best practices for writing clean, maintainable, and trustworthy tests.
-- Learn various techniques to run and debug tests effectively.
-- Explore VSCode shortcuts to boost coding productivity.
-- Master working with matchers and crafting precise, effective assertions.
-- Practice positive, negative, and boundary testing to cover a wide range of test scenarios.
-- Break dependencies in your tests with mocks.
-- Improve code quality with static analysis, including TypeScript, ESLint, and Prettier.
-- Automate code quality checks with Husky to maintain high coding standards.
-
+- Comprendre les fondamentaux des tests unitaires et leur importance dans le développement JavaScript.
+- Maîtriser l'installation et l'utilisation de Vitest pour des tests JavaScript efficaces.
+- Découvrir les meilleures pratiques pour écrire des tests clairs, maintenables et fiables.
+- Apprendre diverses techniques pour exécuter et déboguer les tests efficacement.
+- Explorer les raccourcis VSCode pour augmenter la productivité du codage.
+- Maîtriser l'utilisation des matchers et la rédaction d'assertions précises et efficaces.
+- Pratiquer les tests positifs, négatifs et de limite pour couvrir un large éventail de scénarios de test.
+- Briser les dépendances dans vos tests avec des mocks.
+- Améliorer la qualité du code avec l'analyse statique, y compris TypeScript, ESLint et Prettier.
+- Automatiser les vérifications de qualité du code avec Husky pour maintenir des standards de codage élevés.
