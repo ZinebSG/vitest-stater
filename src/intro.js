@@ -1,7 +1,8 @@
 // Lesson: Writing your first tests
 export function max(a, b) {
-  return a > b ? a : b;
-}
+  if (a > b) return a;
+  else if (b > a) return b;
+  return a;
 
 // Exercise
 export function fizzBuzz(n) {
